@@ -1,0 +1,4 @@
+[
+  { "id": "h1", "name": "Blue Horizon Hotel", "location": "Toronto", "rating": 4.5 },
+  { "id": "h2", "name": "Ocean View Resort", "location": "Vancouver", "rating": 4.7 }
+]
