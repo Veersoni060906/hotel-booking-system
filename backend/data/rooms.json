@@ -1,0 +1,6 @@
+[
+  { "roomNumber": "101", "type": "Standard", "price": 120, "available": true },
+  { "roomNumber": "102", "type": "Deluxe", "price": 200, "available": true },
+  { "roomNumber": "201", "type": "Standard", "price": 100, "available": true },
+  { "roomNumber": "202", "type": "Suite", "price": 300, "available": true }
+]

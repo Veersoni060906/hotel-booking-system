@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Seaside Resort",
+    "address": "12 Ocean Ave",
+    "city": "Vancouver",
+    "rating": 4.5,
+    "description": "Ocean view resort"
+  },
+  {
+    "name": "City Central Hotel",
+    "address": "100 King St",
+    "city": "Toronto",
+    "rating": 4.0,
+    "description": "Downtown comfort"
+  }
+]

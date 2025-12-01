@@ -1,0 +1,16 @@
+[
+  {
+    "guestIndex": 0,
+    "hotelIndex": 0,
+    "roomIndex": 0,
+    "checkIn": "2025-12-10",
+    "checkOut": "2025-12-12"
+  },
+  {
+    "guestIndex": 1,
+    "hotelIndex": 1,
+    "roomIndex": 3,
+    "checkIn": "2025-12-20",
+    "checkOut": "2025-12-21"
+  }
+]
